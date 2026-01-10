@@ -6,6 +6,7 @@ This repository serves as a central index for my Gists, organizing code snippets
 
 | Category | Gist / Title | Description | Article / Reference |
 |:---|:---|:---|:---|
+| **Unity** | [Component Cacher](https://gist.github.com/bwaynesu/41d41e806f26f4d57fd1cb8a91b22ccd) | Efficient Unity Component Caching utility with automatic memory management. | - |
 | **Unity** | [Friendly Animator Override Controller Editor](https://gist.github.com/bwaynesu/457e1f0ed7b5359afe13b274c9620366) | Custom AnimatorOverrideController inspector with fixed sync issues, proper Undo/Redo, and reliable saving. | [Medium Article](https://medium.com/@bwaynesu/tools-unity-custom-animatoroverridecontroller-inspector-fixing-refresh-save-and-undo-issues-dfa4eb3df70d) |
 | **Unity** | [Unity Collision Behavior Test Results Table](https://gist.github.com/bwaynesu/57a5b0bee85f2dbb51bde4ce18803bfe) | A comprehensive test result table showing collision interactions between CharacterController and Rigidbody. | [Medium Article](https://medium.com/@bwaynesu/til-unity-a-complete-guide-to-collision-detection-charactercontroller-vs-rigidbody-b9f38296064d) |
 | **Unity** | [Weak Reference Unity](https://gist.github.com/bwaynesu/ef029f16ec1c24fdd446178c483cc558) | Code examples exploring the usage and behavior of `WeakReference` within the Unity environment. | [Medium Article](https://medium.com/@bwaynesu/til-unity-exploring-weakreference-0183a2f13bae) |

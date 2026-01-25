@@ -15,6 +15,7 @@ This repository serves as a central index for my Gists, organizing code snippets
 
 | Category | Gist / Title | Description | Article / Reference |
 |:---|:---|:---|:---|
+| **Unity** | [Physics Cache Verification](https://gist.github.com/bwaynesu/99f1ca55c2376cda50db40504afdef2f) | Verifying memory reuse behavior of RaycastHit vs Collision/ControllerColliderHit to warn about unsafe caching. | [Medium Article](https://medium.com/@bwaynesu/til-unity-a-pitfall-of-caching-collision-callbacks-95a7d80a5110) |
 | **Unity** | [Unity Collision Behavior Test Results Table](https://gist.github.com/bwaynesu/57a5b0bee85f2dbb51bde4ce18803bfe) | A comprehensive test result table showing collision interactions between CharacterController and Rigidbody. | [Medium Article](https://medium.com/@bwaynesu/til-unity-a-complete-guide-to-collision-detection-charactercontroller-vs-rigidbody-b9f38296064d) |
 | **Unity** | [Weak Reference Unity](https://gist.github.com/bwaynesu/ef029f16ec1c24fdd446178c483cc558) | Code examples exploring the usage and behavior of `WeakReference` within the Unity environment. | [Medium Article](https://medium.com/@bwaynesu/til-unity-exploring-weakreference-0183a2f13bae) |
 | **Unity** | [Test Null](https://gist.github.com/bwaynesu/d58548ba896797107b283775c15ae378) | Experiments and tests regarding Unity's custom `null` check behavior and comparisons. | [Medium Article](https://medium.com/@bwaynesu/til-unity-null-check-eb5609eb9bc9) |
